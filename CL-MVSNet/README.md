@@ -4,11 +4,12 @@ This is the repository that contains source code for the [CL-MVSNet website](htt
 
 If you find CL-MVSNet useful for your work please cite:
 ```
-@article{xiong2023cl,
-  author    = {Xiong, Kaiqiang and Peng, Rui and Zhang, Zhe and Feng, Tianxing and Jiao, Jianbo and Gao, Feng and Wang, Ronggang},
-  title     = {CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning},
-  journal   = {ICCV},
-  year      = {2023},
+@inproceedings{xiong2023cl,
+  title={CL-MVSNet: Unsupervised Multi-View Stereo with Dual-Level Contrastive Learning},
+  author={Xiong, Kaiqiang and Peng, Rui and Zhang, Zhe and Feng, Tianxing and Jiao, Jianbo and Gao, Feng and Wang, Ronggang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3769--3780},
+  year={2023}
 }
 ```
 

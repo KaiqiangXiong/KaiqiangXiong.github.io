@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings zh-CN en-US
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
 title_separator          : "-"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Kaiqiang Xiong"
+title: Kaiqiang Xiong
 author_profile: true
 redirect_from: 
   - /about/

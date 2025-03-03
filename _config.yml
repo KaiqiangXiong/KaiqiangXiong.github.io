@@ -9,10 +9,10 @@
 # Basic Site Settings zh-CN en-US
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kaiqiang Xiong / Site Title"
+title                    : "Kaiqiang Xiong" # "Kaiqiang Xiong / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Kaiqiang Xiong"
+description              : &description "PhD candidate"
 url                      : https://KaiqiangXiong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KaiqiangXiong/KaiqiangXiong.github.io"

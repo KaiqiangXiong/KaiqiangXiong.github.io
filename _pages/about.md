@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- <center># Kaiqiang Xiong</center> -->
 
-I am now a ​PhD candidate student at National Engineering Research Laboratory for Video and Vision Technology, Peking University, under the supervision of Prof. Ronggang Wang.  Before that, I received my B.Eng degree of Computer Science from Hunan University.
+I am now a ​PhD candidate student at National Engineering Research Laboratory for Video and Vision Technology, Peking University, under the supervision of Prof. Ronggang Wang.  Before that, I received my B.Eng degree from Hunan University.
 
 My research interests include 3D content generation, 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo.
 

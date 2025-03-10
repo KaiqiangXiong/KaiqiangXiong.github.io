@@ -9,9 +9,81 @@ redirect_from:
 
 <!-- <center># Kaiqiang Xiong</center> -->
 
-I am now a ​PhD candidate student at National Engineering Research Laboratory for Video and Vision Technology, Peking University, under the supervision of Prof. Ronggang Wang.  Before that, I received my B.Eng degree from Hunan University.
+I am now a ​PhD candidate student at [National Engineering Research Laboratory for Video and Vision Technology](https://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), under the supervision of Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1046/2147.htm).  Before that, I received my Bachelor's degree  from [Hunan University](https://www.hnu.edu.cn/).
 
 My research interests include 3D content generation, 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo.
+
+
+
+## Research
+Published papers are listed below.  
+
+[CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning](https://kaiqiangxiong.github.io/CL-MVSNet/)  
+**Kaiqiang Xiong**, Rui Peng, Zhe Zhang, Tianxing Feng, Jianbo Jiao, Feng Gao, Ronggang Wang  
+[International Conference on Computer Vision(ICCV) 2023](https://iccv2023.thecvf.com/)  
+[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [project page](https://kaiqiangxiong.github.io/CL-MVSNet/) [code](https://github.com/KaiqiangXiong/CL-MVSNet)  
+<p align="center">
+<img src='images/clmvsnet.png' alt="" width="800" height="400">
+</p> 
+
+[Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene](https://openreview.net/forum?id=c1RhJVTPwT)  
+[International Conference on Learning Representations (ICLR), 2025](https://iclr.cc/Conferences/2025)  
+Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, **Kaiqiang Xiong**, Ronggang Wang  
+[paper](https://openreview.net/forum?id=c1RhJVTPwT)  
+<p align="center">
+<img src='images/swift4d.png' alt="" width="800" height="400">
+</p> 
+
+[Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://ieeexplore.ieee.org/document/10446550)  
+Rui Peng, Shihe Shen, **Kaiqiang Xiong**, Huachen Gao, Jianbo Jiao, Xiaodong Gu, Ronggang Wang  
+[The 18th European Conference on Computer Vision (ECCV), 2024](https://eccv2024.ecva.net/)  
+[arxiv](https://arxiv.org/abs/2409.03634) [code](https://github.com/prstrive/SuRF)   
+<p align="center">
+<img src='images/eccv_surf.jpg' alt="" width="800" height="400">
+</p> 
+
+
+[Disentangled Generation and Aggregation for Robust Radiance Fields](https://arxiv.org/abs/2409.15715)  
+Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, **Kaiqiang Xiong**, Jianbo Jiao, Ronggang Wang  
+[The 18th European Conference on Computer Vision (ECCV), 2024](https://eccv2024.ecva.net/)  
+[arxiv](https://arxiv.org/abs/2409.15715) [project page](https://gaohchen.github.io/DiGARR/) [code](https://github.com/GaoHchen/DiGARR) 
+<p align="center">
+<img src='images/eccv_digarr.jpg' alt="" width="800" height="400">
+</p> 
+
+
+[FDC-NeRF: Learning Pose-Free Neural Radiance Fields With Flow-Depth Consistency (Oral Presentation)](https://ieeexplore.ieee.org/document/10446550)  
+Huachen Gao, Shihe Shen, Zhe Zhang, **Kaiqiang Xiong**, Rui Peng, Zhirui Gao, Qi Wang, Yugui Xie, Ronggang Wang  
+[IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024](https://2024.ieeeicassp.org/)  
+[paper](https://gaohchen.github.io/data/icassp24.pdf) [slide](https://gaohchen.github.io/data/icassp24_pre.pdf)   
+<p align="center">
+<img src='images/icassp24.jpg' alt="" width="800" height="400">
+</p> 
+
+[High Fidelity Aggregated Planar Prior Assisted PatchMatch Multi-View Stereo](https://dl.acm.org/doi/abs/10.1145/3664647.3680787?casa_token=CEsC9-sAvbEAAAAA:z3N7AmYYAuOEegU894LKJqVc1aGO_Hr3H8DCyEHJnoH1lR50-W5v6JXgbKEoG8-Do2s7k1Ww0gBkyA)  
+[Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM), 2024](https://dl.acm.org/doi/proceedings/10.1145/3664647)  
+Jie Liang, Rongjie Wang, Rui Peng, Zhe Zhang, **Kaiqiang Xiong**, Ronggang Wang  
+[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680787?casa_token=CEsC9-sAvbEAAAAA:z3N7AmYYAuOEegU894LKJqVc1aGO_Hr3H8DCyEHJnoH1lR50-W5v6JXgbKEoG8-Do2s7k1Ww0gBkyA)  
+<p align="center">
+<img src='images/hfpmvs.png' alt="" width="800" height="400">
+</p> 
+
+
+[Context-Guided Multi-view Stereo with Depth Back-Projection](https://link.springer.com/content/pdf/10.1007/978-3-031-27818-1_8?pdf=chapter+toc)  
+[MultiMedia Modeling (ACM MMM), 2023](https://dl.acm.org/doi/proceedings/10.1007/978-3-031-27818-1)  
+Tianxing Feng, Zhe Zhang, **Kaiqiang Xiong**, and Ronggang Wang
+[paper](https://link.springer.com/content/pdf/10.1007/978-3-031-27818-1_8?pdf=chapter+toc)  
+<p align="center">
+<img src='images/contextmvs.png' alt="" width="800" height="400">
+</p> 
+
+[HDRGS: High Dynamic Range Gaussian Splatting](https://arxiv.org/pdf/2408.06543)  
+Jiahao Wu, Lu Xiao,Rui Peng, **Kaiqiang Xiong**, Ronggang Wang  
+[paper](https://arxiv.org/pdf/2408.06543)  
+<p align="center">
+<img src='images/hdrgs.png' alt="" width="800" height="400">
+</p> 
+
 
 <!-- 
 

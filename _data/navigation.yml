@@ -19,9 +19,12 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Paper Reading Notes"
+    url: /readings/
     
   # - title: "CV"
   #   url: /cv/
-    
+
   # - title: "Guide"
   #   url: /markdown/

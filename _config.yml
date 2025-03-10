@@ -226,6 +226,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  readings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -234,6 +237,16 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: readings
     values:
       layout: single
       author_profile: true

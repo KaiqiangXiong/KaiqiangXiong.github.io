@@ -11,7 +11,7 @@ redirect_from:
 
 I am now a ​PhD candidate student at [National Engineering Research Laboratory for Video and Vision Technology](https://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), under the supervision of Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1046/2147.htm).  Before that, I received my Bachelor's degree  from [Hunan University](https://www.hnu.edu.cn/).
 
-My research interests include 3D content generation, 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo.
+My research interests include 3D content generation, 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo(MVS).
 
 
 
@@ -21,17 +21,16 @@ Published papers are listed below.
 [CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning](https://kaiqiangxiong.github.io/CL-MVSNet/)  
 **Kaiqiang Xiong**, Rui Peng, Zhe Zhang, Tianxing Feng, Jianbo Jiao, Feng Gao, Ronggang Wang  
 [International Conference on Computer Vision(ICCV) 2023](https://iccv2023.thecvf.com/)  
-[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [project page](https://kaiqiangxiong.github.io/CL-MVSNet/) [code](https://github.com/KaiqiangXiong/CL-MVSNet)  
+[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [arxiv](https://arxiv.org/abs/2503.08219) [project page](https://kaiqiangxiong.github.io/CL-MVSNet/) [code](https://github.com/KaiqiangXiong/CL-MVSNet)  
 <p align="center">
 <img src='images/clmvsnet.png' alt="" width="800" height="400">
 </p> 
 
-[Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene](https://openreview.net/forum?id=c1RhJVTPwT)  
-[International Conference on Learning Representations (ICLR), 2025](https://iclr.cc/Conferences/2025)  
-Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, **Kaiqiang Xiong**, Ronggang Wang  
-[paper](https://openreview.net/forum?id=c1RhJVTPwT)  
+[MVD-HuGaS: Human Gaussians from a Single Image via 3D Human Multi-view Diffusion Prior](https://kaiqiangxiong.github.io/MVD-HuGaS/)  
+**Kaiqiang Xiong**, Ying Feng, Qi Zhang, Jianbo Jiao, Yang Zhao, Zhihao Liang, Huachen Gao, Ronggang Wang  
+[arxiv](https://arxiv.org/abs/2503.08218) [project page](https://kaiqiangxiong.github.io/MVD-HuGaS/) 
 <p align="center">
-<img src='images/swift4d.png' alt="" width="800" height="400">
+<img src='images/mvdhugas.png' alt="" width="800" height="400">
 </p> 
 
 [Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://ieeexplore.ieee.org/document/10446550)  
@@ -42,6 +41,13 @@ Rui Peng, Shihe Shen, **Kaiqiang Xiong**, Huachen Gao, Jianbo Jiao, Xiaodong Gu,
 <img src='images/eccv_surf.jpg' alt="" width="800" height="400">
 </p> 
 
+[Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene](https://openreview.net/forum?id=c1RhJVTPwT)  
+[International Conference on Learning Representations (ICLR), 2025](https://iclr.cc/Conferences/2025)  
+Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, **Kaiqiang Xiong**, Ronggang Wang  
+[paper](https://openreview.net/forum?id=c1RhJVTPwT)  
+<p align="center">
+<img src='images/swift4d.png' alt="" width="800" height="400">
+</p> 
 
 [Disentangled Generation and Aggregation for Robust Radiance Fields](https://arxiv.org/abs/2409.15715)  
 Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, **Kaiqiang Xiong**, Jianbo Jiao, Ronggang Wang  

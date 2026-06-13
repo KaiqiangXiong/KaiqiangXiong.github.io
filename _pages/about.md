@@ -9,49 +9,76 @@ redirect_from:
 
 <!-- <center># Kaiqiang Xiong</center> -->
 
-I am now a ​PhD candidate student at [National Engineering Research Laboratory for Video and Vision Technology](https://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), under the supervision of Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1046/2147.htm).  Before that, I received my Bachelor's degree  from [Hunan University](https://www.hnu.edu.cn/).
+I am about to join [AGIBOT](https://www.agibot.com.cn/) to engage in research on 3D vision-related algorithms in the field of embodied intelligence. My research interests include 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo(MVS).
 
-My research interests include 3D content generation, 3D representation, neural rendering (NeRF, 3D Gaussian Splatting), and multi-view stereo(MVS).
+Previously, I completed my PhD in Computer Science and Technology from [Peking University](https://www.pku.edu.cn/), advised by Prof. [Ronggang Wang](https://www.ece.pku.edu.cn/info/1046/2147.htm). Before that, I received my Bachelor's degree  from [Hunan University](https://www.hnu.edu.cn/).
 
 
 
 ## Research
 Published papers are listed below.  
 
+[Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting](https://kaiqiangxiong.github.io/ICO-GS/) 
+[IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2026](https://cvpr.thecvf.com/Conferences/2026)   
+**Kaiqiang Xiong**, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang  
+[paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Intrinsic_Geometry-Appearance_Consistency_Optimization_for_Sparse-View_Gaussian_Splatting_CVPR_2026_paper.pdf) [arxiv](https://arxiv.org/pdf/2603.02893) [project page](https://kaiqiangxiong.github.io/ICO-GS/) [code](https://github.com/KaiqiangXiong/ICO-GS)  
+<p align="center">
+<img src='images/icogs.png' alt="" width="800" height="400">
+</p> 
+
 [CL-MVSNet: Unsupervised Multi-view Stereo with Dual-level Contrastive Learning](https://kaiqiangxiong.github.io/CL-MVSNet/)  
+[IEEE/CVF International Conference on Computer Vision(ICCV) 2023](https://iccv2023.thecvf.com/)  
 **Kaiqiang Xiong**, Rui Peng, Zhe Zhang, Tianxing Feng, Jianbo Jiao, Feng Gao, Ronggang Wang  
-[International Conference on Computer Vision(ICCV) 2023](https://iccv2023.thecvf.com/)  
 [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiong_CL-MVSNet_Unsupervised_Multi-View_Stereo_with_Dual-Level_Contrastive_Learning_ICCV_2023_paper.pdf) [arxiv](https://arxiv.org/abs/2503.08219) [project page](https://kaiqiangxiong.github.io/CL-MVSNet/) [code](https://github.com/KaiqiangXiong/CL-MVSNet)  
 <p align="center">
 <img src='images/clmvsnet.png' alt="" width="800" height="400">
 </p> 
 
+[Multimodal-Prior-Guided Importance Sampling For Hierarchical Gaussian Splatting In Sparse-View Novel View Synthesis](https://kaiqiangxiong.github.io/CL-MVSNet/)  
+[IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP) 2026](https://2026.ieeeicassp.org/)  
+**Kaiqiang Xiong**, Zhanke Wang, Ronggang Wang  
+[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11461566) [arxiv](https://arxiv.org/pdf/2603.02866) [project page](https://kaiqiangxiong.github.io/MM-GS/) [code](https://github.com/KaiqiangXiong/MM-GS)  
+<p align="center">
+<img src='images/mmgs.png' alt="" width="800" height="400">
+</p> 
+
 [MVD-HuGaS: Human Gaussians from a Single Image via 3D Human Multi-view Diffusion Prior](https://kaiqiangxiong.github.io/MVD-HuGaS/)  
+[Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2025](http://2025.prcv.cn/)  
 **Kaiqiang Xiong**, Ying Feng, Qi Zhang, Jianbo Jiao, Yang Zhao, Zhihao Liang, Huachen Gao, Ronggang Wang  
 [arxiv](https://arxiv.org/abs/2503.08218) [project page](https://kaiqiangxiong.github.io/MVD-HuGaS/) 
 <p align="center">
 <img src='images/mvdhugas.png' alt="" width="800" height="400">
 </p> 
 
-[Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://ieeexplore.ieee.org/document/10446550)  
-Rui Peng, Shihe Shen, **Kaiqiang Xiong**, Huachen Gao, Jianbo Jiao, Xiaodong Gu, Ronggang Wang  
-[The 18th European Conference on Computer Vision (ECCV), 2024](https://eccv2024.ecva.net/)  
-[arxiv](https://arxiv.org/abs/2409.03634) [code](https://github.com/prstrive/SuRF)   
-<p align="center">
-<img src='images/eccv_surf.jpg' alt="" width="800" height="400">
-</p> 
-
 [Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene](https://openreview.net/forum?id=c1RhJVTPwT)  
-[International Conference on Learning Representations (ICLR), 2025](https://iclr.cc/Conferences/2025)  
+[IEEE/CVF International Conference on Learning Representations (ICLR), 2025](https://iclr.cc/Conferences/2025)  
 Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, **Kaiqiang Xiong**, Ronggang Wang  
 [paper](https://openreview.net/forum?id=c1RhJVTPwT)  
 <p align="center">
 <img src='images/swift4d.png' alt="" width="800" height="400">
 </p> 
 
-[Disentangled Generation and Aggregation for Robust Radiance Fields](https://arxiv.org/abs/2409.15715)  
-Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, **Kaiqiang Xiong**, Jianbo Jiao, Ronggang Wang  
+[LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://wujh2001.github.io/LocalDyGS/)  
+[IEEE/CVF International Conference on Computer Vision (ICCV), 2025](https://openaccess.thecvf.com/ICCV2025)  
+Jiahao Wu, Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, **Kaiqiang Xiong**, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang 
+[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Wu_LocalDyGS_Multi-view_Global_Dynamic_Scene_Modeling_via_Adaptive_Local_Implicit_ICCV_2025_paper.pdf)  
+<p align="center">
+<img src='images/localdygs.png' alt="" width="800" height="400">
+</p> 
+
+[Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://ieeexplore.ieee.org/document/10446550)  
 [The 18th European Conference on Computer Vision (ECCV), 2024](https://eccv2024.ecva.net/)  
+Rui Peng, Shihe Shen, **Kaiqiang Xiong**, Huachen Gao, Jianbo Jiao, Xiaodong Gu, Ronggang Wang  
+[arxiv](https://arxiv.org/abs/2409.03634) [code](https://github.com/prstrive/SuRF)   
+<p align="center">
+<img src='images/eccv_surf.jpg' alt="" width="800" height="400">
+</p> 
+
+
+
+[Disentangled Generation and Aggregation for Robust Radiance Fields](https://arxiv.org/abs/2409.15715)  
+[The 18th European Conference on Computer Vision (ECCV), 2024](https://eccv2024.ecva.net/)  
+Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, **Kaiqiang Xiong**, Jianbo Jiao, Ronggang Wang  
 [arxiv](https://arxiv.org/abs/2409.15715) [project page](https://gaohchen.github.io/DiGARR/) [code](https://github.com/GaoHchen/DiGARR) 
 <p align="center">
 <img src='images/eccv_digarr.jpg' alt="" width="800" height="400">
@@ -59,8 +86,8 @@ Shihe Shen, Huachen Gao, Wangze Xu, Rui Peng, Luyang Tang, **Kaiqiang Xiong**, J
 
 
 [FDC-NeRF: Learning Pose-Free Neural Radiance Fields With Flow-Depth Consistency (Oral Presentation)](https://ieeexplore.ieee.org/document/10446550)  
-Huachen Gao, Shihe Shen, Zhe Zhang, **Kaiqiang Xiong**, Rui Peng, Zhirui Gao, Qi Wang, Yugui Xie, Ronggang Wang  
 [IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024](https://2024.ieeeicassp.org/)  
+Huachen Gao, Shihe Shen, Zhe Zhang, **Kaiqiang Xiong**, Rui Peng, Zhirui Gao, Qi Wang, Yugui Xie, Ronggang Wang  
 [paper](https://gaohchen.github.io/data/icassp24.pdf) [slide](https://gaohchen.github.io/data/icassp24_pre.pdf)   
 <p align="center">
 <img src='images/icassp24.jpg' alt="" width="800" height="400">
@@ -77,7 +104,7 @@ Jie Liang, Rongjie Wang, Rui Peng, Zhe Zhang, **Kaiqiang Xiong**, Ronggang Wang
 
 [Context-Guided Multi-view Stereo with Depth Back-Projection](https://link.springer.com/content/pdf/10.1007/978-3-031-27818-1_8?pdf=chapter+toc)  
 [MultiMedia Modeling (ACM MMM), 2023](https://dl.acm.org/doi/proceedings/10.1007/978-3-031-27818-1)  
-Tianxing Feng, Zhe Zhang, **Kaiqiang Xiong**, and Ronggang Wang
+Tianxing Feng, Zhe Zhang, **Kaiqiang Xiong**, and Ronggang Wang  
 [paper](https://link.springer.com/content/pdf/10.1007/978-3-031-27818-1_8?pdf=chapter+toc)  
 <p align="center">
 <img src='images/contextmvs.png' alt="" width="800" height="400">

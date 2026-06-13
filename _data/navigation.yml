@@ -16,12 +16,13 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
 
-  - title: "Paper Reading Notes"
-    url: /readings/
+#不想显示就可以直接注释，想显示就会出来
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Paper Reading Notes"
+  #   url: /readings/
     
   # - title: "CV"
   #   url: /cv/

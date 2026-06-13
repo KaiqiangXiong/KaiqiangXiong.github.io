@@ -18,7 +18,7 @@ Previously, I completed my PhD in Computer Science and Technology from [Peking U
 ## Research
 Published papers are listed below.  
 
-[Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting](https://kaiqiangxiong.github.io/ICO-GS/) 
+[Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting](https://kaiqiangxiong.github.io/ICO-GS/)  
 [IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR) 2026](https://cvpr.thecvf.com/Conferences/2026)   
 **Kaiqiang Xiong**, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang  
 [paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Intrinsic_Geometry-Appearance_Consistency_Optimization_for_Sparse-View_Gaussian_Splatting_CVPR_2026_paper.pdf) [arxiv](https://arxiv.org/pdf/2603.02893) [project page](https://kaiqiangxiong.github.io/ICO-GS/) [code](https://github.com/KaiqiangXiong/ICO-GS)  
